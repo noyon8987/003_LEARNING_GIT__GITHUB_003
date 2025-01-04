@@ -38,3 +38,5 @@
 12.git brach Select Prompt Code is:
 ---git checkout (branch name)
 
+12.Git Merge Prompt Code is:
+---git merge (other branch name)
