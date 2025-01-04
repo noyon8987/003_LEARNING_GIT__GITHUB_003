@@ -40,3 +40,10 @@
 
 13.Git Merge Prompt Code is:
 ---git merge (other branch name)
+
+14.Git Fetch Prompt Code is:
+---git fetch
+---git merge
+
+15.Git Pull Prompt Code is:
+---git pull dddfdfesdfsdfsdf
