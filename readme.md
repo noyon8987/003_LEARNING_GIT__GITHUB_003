@@ -32,11 +32,12 @@
 10.Git Checkout to Back Branch Prompt Code is:
 ---git checkout master
 
+<<<<<<< HEAD
 11.Git Branch Create Prompt Code is:
 ---git branch (branch name)
 
 12.git brach Select Prompt Code is:
 ---git checkout (branch name)
 
-12.Git Merge Prompt Code is:
+13.Git Merge Prompt Code is:
 ---git merge (other branch name)
