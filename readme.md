@@ -47,3 +47,6 @@
 
 15.Git Pull Prompt Code is:
 ---git pull
+
+16.Git Clone From GitHub To Local Computer Prompt Code is:
+---git clone (GitHub HTTP URL Copy & Paste Here).
