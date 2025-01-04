@@ -31,3 +31,10 @@
 
 10.Git Checkout to Back Branch Prompt Code is:
 ---git checkout master
+
+11.Git Branch Create Prompt Code is:
+---git branch (branch name)
+
+12.git brach Select Prompt Code is:
+---git branch (branch name)
+
