@@ -26,5 +26,8 @@
 08.Git History to Back Terminal Prompt Code is:
 ---Q
 
-09.Git last initial Commit Check Prompt Code is:
+09.Git last initial Commit Checkout Prompt Code is:
 ---git checkout (Copy code Paste Here)
+
+10.Git Checkout to Back Branch Prompt Code is:
+---git checkout master
