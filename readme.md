@@ -36,5 +36,5 @@
 ---git branch (branch name)
 
 12.git brach Select Prompt Code is:
----git branch (branch name)
+---git checkout (branch name)
 
