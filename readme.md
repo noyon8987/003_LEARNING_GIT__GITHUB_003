@@ -31,3 +31,6 @@
 
 10.Git Checkout to Back Branch Prompt Code is:
 ---git checkout master
+
+11.Git Marge Prompt Code is:
+---git marge (other branch name)
